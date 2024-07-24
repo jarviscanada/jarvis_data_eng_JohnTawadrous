@@ -17,21 +17,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JohnTawadr
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/linux_sql)]: The project aims to develop a monitoring application for gathering and storing hardware information and usage statistics from multiple Linux hosts into a PostgreSQL database. This application targets system administrators and DevOps engineers who need to monitor system performance metrics over time. Technologies used include Bash scripting for automation, Docker for containerization of PostgreSQL, Git for version control, and SQL for database operations.
 
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/core_java)]:
-      
-  - Twitter App: 
-  - JDBC App: 
-  - Grep App: The Grep app is a Java-based application that searches for a text pattern recursively within a given directory and outputs the matched lines to a file. It leverages core Java concepts, the SLF4J logging framework, and Java streams for efficient processing. The app has been dockerized for easier distribution and deployment.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/cloud_devops)]: Not Started
+**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git/tree/master/core_java)]: Grep App: The Grep app is a Java-based application that searches for a text pattern recursively within a given directory and outputs the matched lines to a file. It leverages core Java concepts, the SLF4J logging framework, and Java streams for efficient processing. The app has been dockerized for easier distribution and deployment.
 
 
 ## Highlighted Projects
