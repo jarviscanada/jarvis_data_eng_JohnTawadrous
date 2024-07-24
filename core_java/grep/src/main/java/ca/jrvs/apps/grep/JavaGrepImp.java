@@ -66,6 +66,29 @@ public class JavaGrepImp implements JavaGrep{
         }
     }
 
+//    @Override
+//    public List<File> listFiles(String rootDir) {
+//        List<File> fileList = new ArrayList<>();
+//        File root = new File(rootDir);
+//
+//        if (root.isDirectory()) {
+//            File[] files = root.listFiles();
+//            if (files != null) {
+//                for (File file : files) {
+//                    if (file.isFile()) {
+//                        fileList.add(file);
+//                    } else if (file.isDirectory()) {
+//                        fileList.addAll(listFiles(file.getAbsolutePath()));
+//                    }
+//                }
+//            }
+//        } else {
+//            logger.error("Root path is not a directory");
+//        }
+//
+//        return fileList;
+//    }
+
     @Override
     public List<String> readLines(File inputFile) {
         if (!inputFile.isFile()) {
