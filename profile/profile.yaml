@@ -1,0 +1,97 @@
+# Preferred name (Characters only)
+name: "John Tawadrous"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_JohnTawadrous.git
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: As a passionate software engineer, I am driven by the opportunity to tackle dynamic
+  challenges and make meaningful contributions in the software development field. With a robust foundation in programming
+  and a keen problem-solving aptitude, I thrive in environments that encourage continuous learning and innovation.
+  My dedication to staying at the forefront of emerging technologies fuels my drive to create impactful solutions and drive positive change.
+  I am eager to leverage my skills, creativity, and passion for innovation to propel forward-thinking organizations towards their goals.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Python
+    - Docker
+    - Spring Boot
+    - AWS
+    - RESTful APIs
+  # At least 5 skills
+  familiar:
+    - JavaScript
+    - HTML/CSS
+    - Hibernate
+    - REACT
+    - ITIL
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: The project aims to develop a monitoring application for gathering and storing hardware information and
+      usage statistics from multiple Linux hosts into a PostgreSQL database.
+      This application targets system administrators and DevOps engineers who need to monitor system performance metrics over time.
+      Technologies used include Bash scripting for automation, Docker for containerization of PostgreSQL, Git for version control, and SQL for database operations.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      "Grep App: The Grep app is a Java-based application that searches for a text pattern recursively within a given directory and outputs the matched lines to a file. It leverages core Java concepts, the SLF4J logging framework, and Java streams for efficient processing. The app has been dockerized for easier distribution and deployment."
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Sport Betting Application (OkayBetMate)"
+    #URL is optional
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Bet-Mate is an engaging sports betting application centered around matchups.
+      It allows users to create and participate in 1v1 betting contests.
+      Users submit their predictions through Bet Slips, and each bet slip is compared against others in the matchup.
+      The user with the most accurate predictions wins. The platform provides a dynamic
+      and competitive environment for sports enthusiasts to test their betting skills and challenge others.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2024-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Design and implement scalable software solutions, leading development efforts for key projects, and optimizing application performance. Collaborate with cross-functional teams to define requirements and deliver high-quality software products. Leverage modern technologies and methodologies to drive continuous improvement and innovation in the development process."
+
+#List of edcuation
+education:
+  - school_name: "Western Governor University"
+    duration: "2023"
+    degree: "Bachelor of Software Engineering"
+    department: "Science and Engineering"
+    awards_achievements: []
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "AWS Certified Solutions Architect"
+      - "ITIL v4 Foundation"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Basketball player"
+      - "Competitive gaming"
