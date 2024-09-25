@@ -45,7 +45,7 @@ The combination of these technologies ensures a responsive, scalable, and user-f
 
 
 ## Miscellaneous
-- AWS Certified Solutions Architect
+- AWS Certified Cloud Practitioner
 - ITIL v4 Foundation
 - Google IT Support
 - Basketball player
